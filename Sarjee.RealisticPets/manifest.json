@@ -1,0 +1,10 @@
+{
+  "Name": "RealisticPets",
+  "Author": "Shrimma",
+  "Version": "1.0.0",
+  "Description": "Makes your lovable pets a bit more realistic",
+  "UniqueID": "shrimma.realisticpets",
+  "EntryDll": "RealisticPets.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
